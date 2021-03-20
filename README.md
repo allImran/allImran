@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...React
 - 🤔 I’m looking for help with ...GSAP
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My Portfolio](https://medevemran.web.appa/)
+- 📫 How to reach me: ... [My Portfolio](https://medevemran.web.app)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Confused b and d
 
